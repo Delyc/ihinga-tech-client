@@ -100,7 +100,7 @@ const HomeC = () => {
                             <div className="h-[1px] w-3/5 bg-gray-100"></div>
 
                             <div className="flex gap-6 items-start">
-                                <H1>30KG+</H1>
+                                <H1>30T+</H1>
                                 <div className="flex flex-col gap-1 w-2/3">
                                     <H4>Organic manure produced</H4>
                                     <p className="text-primary-gray">We’re helping farms thrive with sustainable, nutrient-rich manure—yours could be next.</p>
