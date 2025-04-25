@@ -59,7 +59,7 @@ const Navbar = () => {
       {/* Navbar */}
       <nav className="fixed w-full bg-white z-50 shadow-sm">
         <div className="max-w-[80rem] mx-auto px-4 py-4 flex items-center justify-between">
-          <H3 className="text-primary-green font-bold">Smart Farm</H3>
+          <H3 className="text-primary-green font-bold">Umurage Farm</H3>
 
           {/* Hamburger */}
           <div className="md:hidden">
@@ -145,13 +145,13 @@ const Navbar = () => {
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 transition-opacity duration-300 ease-in-out">
           <div className="bg-white rounded-xl shadow-xl p-6 w-full max-w-md mx-4 animate-fadeIn">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-lg font-bold">Support Smart Farm</h2>
+              <h2 className="text-lg font-bold">Support Umurage Farm</h2>
               <button onClick={() => setShowModal(false)}>
                 <X className="text-gray-500 hover:text-black" />
               </button>
             </div>
             <p className="text-gray-600">
-              Thank you for your interest in supporting Smart Farm. Contact us via phone or email to learn how you can contribute.
+              Thank you for your interest in supporting Umurage Farm. Contact us via phone or email to learn how you can contribute.
             </p>
             <Button className="bg-primary-green text-white tracking-[2px] mt-2 lowercase">*182*1*1*0781093895*amount#</Button>
           </div>

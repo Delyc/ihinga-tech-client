@@ -8,14 +8,14 @@ export const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h2 className="text-lg font-semibold mb-2">Smart Farm</h2>
+            <h2 className="text-lg font-semibold mb-2">Umurage Farm</h2>
             <p className="text-sm">
               Providing fresh, healthy pork with care and sustainability.
             </p>
           </div>
 
- 
-  
+
+
 
           {/* <div>
             <h3 className="text-md font-semibold mb-2">Legal</h3>
@@ -28,9 +28,9 @@ export const Footer = () => {
         </div>
         <Separator className="my-8 border-white opacity-20" />
         <div className="flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {new Date().getFullYear()} smartFarm. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Farm. All rights reserved.</p>
           <div className="items-center flex gap-2">
-          <PhoneCall className="w-6 h-6 animate-bounce"/>
+            <PhoneCall className="w-6 h-6 animate-bounce" />
             +250781093895
           </div>
         </div>

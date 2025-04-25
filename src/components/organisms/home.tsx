@@ -57,7 +57,7 @@ const HomeC = () => {
                 </section> */}
 
                 <section id="products" className="lg:py-20 flex flex-col  gap-10">
-                    <H2 className="text-primary-green text-start lg:w-1/4 px-5 lg:px-0">What we provide at  <span className="bg-secondary-green px-2 rounded">Smart Pig Farm</span> </H2>
+                    <H2 className="text-primary-green text-start lg:w-1/4 px-5 lg:px-0">What we provide at  <span className="bg-secondary-green px-2 rounded">Umurage Pig Farm</span> </H2>
 
                     <div className="
             flex flex-col lg:flex-row gap-20">
@@ -67,8 +67,7 @@ const HomeC = () => {
                                 <BetweenHorizontalEnd className="text-primary-green" />
                                 <H4 className="text-primary-green">Fresh Pork (From Slaughtered Pigs)</H4>
                                 <p className="text-sm text-primary-gray">Clean, tender pork from healthy pigs—ready for your table or market.
-
-</p>
+                                </p>
                             </div>
 
                             <div className="bg-white/60 p-4 rounded-md flex flex-col gap-3">
@@ -88,14 +87,9 @@ const HomeC = () => {
                                 <H4 className="text-primary-green">High-Quality Organic Manure</H4>
                                 <p className="text-sm text-primary-gray">Nutrient-rich manure to boost your soil naturally and sustainably.</p>
                             </div>
-
-
                         </div>
 
                         <div className="lg:w-2/5 px-5 lg:px-0 flex flex-col gap-10 items-center">
-
-
-
                             <div className="flex gap-6 items-start">
                                 <H1>30+</H1>
                                 <div className="flex flex-col gap-1 w-2/3">
