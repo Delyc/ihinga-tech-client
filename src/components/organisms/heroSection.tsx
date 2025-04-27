@@ -14,7 +14,7 @@ const HeroSection = () => {
 
             {/* <Wrapper> */}
             <section
-                className="pb-20 pt-28 md:pt-44 flex flex-col md:flex-row gap-10 justify-center relative bg-cover bg-center bg-no-repeat"
+                className="pb-20 pt-28 md:py-[10rem] flex flex-col md:flex-row gap-10 justify-center relative bg-cover bg-center bg-no-repeat"
                 style={{
                     backgroundImage: "url('/assets/pig3.jpeg')"
                 }}
@@ -81,21 +81,6 @@ const HeroSection = () => {
                                 </div>
                             </div>
 
-                            <div className="flex gap-4">
-                                <div className="">
-                                    <P className="text-white mb-2">Livestock sales</P>
-                                    <div className="bg-white rounded-lg w-full py-2 pl-2 pr-5">
-                                        <H3 className="text-primary-green">10</H3>
-                                        <P className="text-primary-gray">Kilos per day</P>
-                                    </div>
-                                </div>
-                                <div className="bg-white/10 w-1/2 relative rounded-lg">
-                                    {/* <div className="w-[1px] h-full bg-white/40 left-[80%] absolute"></div>
-                                        <div className="h-[1px] w-full bg-white/40 top-[50%] absolute"></div> */}
-                                    <LineData />
-
-                                </div>
-                            </div>
                         </div>
 
                         <div className="bg-white p-4 rounded-lg mt-2">
