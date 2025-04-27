@@ -16,7 +16,7 @@ const HeroSection = () => {
             <section
                 className="pb-20 pt-28 md:py-[10rem] flex flex-col md:flex-row gap-10 justify-center relative bg-cover bg-center bg-no-repeat"
                 style={{
-                    backgroundImage: "url('/assets/pig3.jpeg')"
+                    backgroundImage: "url('/assets/hero.jpeg')"
                 }}
             >
                 <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-black/30 z-0" />
