@@ -57,7 +57,7 @@ const Navbar = () => {
   return (
     <>
       {/* Navbar */}
-      <nav className="fixed w-full bg-white z-50 shadow-sm">
+      <nav className="fixed w-full top-0 bg-white z-50 shadow-sm">
         <div className="max-w-[80rem] mx-auto px-4 py-4 flex items-center justify-between">
           <H3 className="text-primary-green font-bold">Umurage Farm</H3>
 

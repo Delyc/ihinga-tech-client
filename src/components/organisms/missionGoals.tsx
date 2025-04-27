@@ -5,7 +5,7 @@ export const VisionMissionGoals = () => {
   return (
     <section id="about" className="relative bg-gradient-to-r from-green-800 lg:mt-20 rounded-2xl to-primary-green  py-10 lg:py-20 px-5 lg:px-14 text-white">
     {/* <section className="relative bg-gradient-to-r from-green-200 to-green-500 py-20 px-4 text-white"> */}
-      <div className="absolute inset-0 bg-cover bg-center opacity-40" style={{ backgroundImage: "url('/assets/pig.jpeg')" }}></div>
+      <div className="absolute inset-0 bg-cover bg-center opacity-40" style={{ backgroundImage: "url('/assets/pig3.jpeg')" }}></div>
 
       <div className="relative lg:max-w-7xl  mx-auto text-center z-10">
         <h2 className="text-4xl md:text-5xl font-extrabold mb-6">Our Commitment</h2>
